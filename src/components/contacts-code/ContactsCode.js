@@ -3,22 +3,22 @@ import styles from "./ContactsCode.module.css";
 
 const socialsData = [
   {
-    social: "website",
+    social: "WebSite",
     link: "deepakmajhi.com",
     href: "#",
   },
   {
-    social: "email",
+    social: "Email",
     link: "dmajhi286@gmail.com",
-    href: "mailto:dmajhi286@gmail.com",
+    href: "https://mailto:dmajhi286@gmail.com",
   },
   {
-    social: "github",
+    social: "Github",
     link: "deepak04112002",
     href: "https://github.com/deepak04112002",
   },
   {
-    social: "linkedin",
+    social: "LinkedIn",
     link: "Deepak_NITR",
     href: "https://www.linkedin.com/in/deepak-kumar-majhi-98b948239/",
   },
